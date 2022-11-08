@@ -1,9 +1,61 @@
 /* Add styling for your page here */
 
 .App {
-
+  background-color: lightblue;
 }
 
 .BakeryItem {
-  
+}
+
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 50px;
+  margin-left: 30px;
+  margin-bottom: 5px;
+}
+
+h2{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  margin-top: 10px;
+}
+
+.yum{
+  background-color: #5E5DF0;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.total{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+}
+
+
+/* CSS */
+.button-34 {
+  background: #5E5DF0;
+  border-radius: 999px;
+  box-shadow: #5E5DF0 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8px 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
+  margin-bottom: 5px;
 }
