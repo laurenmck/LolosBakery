@@ -39,7 +39,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>My Bakery</h1> {/* TODO: personalize your bakery (if you want) */}
+      <h1>Lolo's Bakery</h1> {/* TODO: personalize your bakery (if you want) */}
 
       <div class="container">
         <div class="items">
