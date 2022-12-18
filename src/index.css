@@ -26,13 +26,18 @@ code {
 }
 
 .items{
-  width: 75%;
+  margin-top: 100px;
+
+  width: 72%;
   display: flex;
   flex-wrap: wrap;
 }
 
 .cart{
-  width: 25%;
+  margin-top: 100px;
+  width: 28%;
+  right: 0;
+  position: fixed;
 }
 
 
