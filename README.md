@@ -1,29 +1,14 @@
-# React Studio
+# Introduction 
 
-Use this stencil code to get started!
+For this lab, I created a simple react app to farmiliarize myself with the basic concepts and principles of react. This simple bakery interface displays a scrollable, interactive bakery menu that allows the user to add items to a cart, view cart items and the carts total price. 
 
-Make sure you're signed into your GitHub account (either real or anonymous is fine for this).
+# Information 
 
-Then click the green "Use this template" button to create a copy of the repository on your own account.
+**Project Durration:** ~2-4 hrs <br>
+**Project Type:** Solo lab for User Interface User Experiance <br>
 
-**Set the name to `react-studio` and make it Public**
+# Project Site!
 
-**Check "Include all branches"**
+View the deployed bakey page here. <br>
 
-Then, clone your new repository and open it in your editor of choice.
-
-## Getting started
-
-First, make sure you install all dependencies by running `npm install` in the project directory.
-
-Then, in the project directory, you can run `npm start` to run the app in the development mode.
-
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.
-
-You may also see any lint errors in the console.
-
-## Deploying
-
-We've included a GitHub Actions workflow that will automatically deploy your React app to GitHub Pages every time you push to the `main` branch. You can visit your site by visiting https://\<your GitHub username\>.github.io/react-studio
+https://laurenmck.github.io/react-studio
