@@ -9,5 +9,6 @@ For this lab, I created a simple react app to familiarize myself with the basic 
 
 View the deployed bakery page here. <br>
 
-https://laurenmck.github.io/react-studio
+https://laurenmck.github.io/LolosBakery
+
 
