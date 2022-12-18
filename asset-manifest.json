@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/react-studio/static/css/main.e9a6a3d5.css",
-    "main.js": "/react-studio/static/js/main.c23865b6.js",
+    "main.css": "/react-studio/static/css/main.2f171820.css",
+    "main.js": "/react-studio/static/js/main.53da4f01.js",
+    "static/media/LibreBaskerville-Regular.ttf": "/react-studio/static/media/LibreBaskerville-Regular.715e9cea90f54d5a4093.ttf",
+    "static/media/LibreFranklin-VariableFont_wght.ttf": "/react-studio/static/media/LibreFranklin-VariableFont_wght.36548e4c1ed430cc7327.ttf",
     "index.html": "/react-studio/index.html",
-    "main.e9a6a3d5.css.map": "/react-studio/static/css/main.e9a6a3d5.css.map",
-    "main.c23865b6.js.map": "/react-studio/static/js/main.c23865b6.js.map"
+    "main.2f171820.css.map": "/react-studio/static/css/main.2f171820.css.map",
+    "main.53da4f01.js.map": "/react-studio/static/js/main.53da4f01.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9a6a3d5.css",
-    "static/js/main.c23865b6.js"
+    "static/css/main.2f171820.css",
+    "static/js/main.53da4f01.js"
   ]
 }
