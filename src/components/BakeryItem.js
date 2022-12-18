@@ -6,9 +6,11 @@ function BakeryItem(item, index) {
   return(
     <div>
       <img src={item.image} width="290" height="250" />
-      <p>{item.name}</p>
-      <p>{item.description}</p>
-      <p>{item.price}</p>
+      <div class="des">
+        <p class="boldbig">{item.name}</p>
+        <p>{item.description}</p>
+        <p>$ {item.price}</p>
+      </div>
     </div>
   )
 }

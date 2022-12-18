@@ -5,3 +5,16 @@ img{
   margin-right: auto;
   margin-top: 5px;
 }
+
+.des{
+  margin-left: 10px;
+  margin-right: 7px;
+  margin-top: 5px;
+  color: lightcyan;
+}
+
+.boldbig{
+  font-weight: bolder;
+  font-size: larger;
+  font-family: 'Paragraph';
+}
