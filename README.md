@@ -1,7 +1,6 @@
 # Introduction 
 
-For this lab, I created a simple react app to farmiliarize myself with the basic concepts and principles of react. This simple bakery interface displays a scrollable, interactive bakery menu that allows the user to add items to a cart, view cart items and the carts total price. 
-
+For this lab, I created a simple react app to farmiliarize myself with the basic concepts and principles of react. I designed and built a simple bakery interface that displays a scrollable, interactive bakery menu and allows users to add items to a cart, view cart items and view the total cart price.
 # Information 
 
 **Project Durration:** ~2-4 hrs <br>
